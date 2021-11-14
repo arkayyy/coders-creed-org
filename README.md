@@ -2,6 +2,6 @@
 A small but potentially growing community of like minded coders 👨‍💻
 
 <p align="center">
-<img width="800" style="margin-left:50px;" alt="Untitled (800 x 500 px)" src="https://user-images.githubusercontent.com/72148786/141694859-1ee74daa-c334-469f-861a-8fcc1df4ad8a.png">
+  ![logo500px](https://user-images.githubusercontent.com/72148786/141695012-96312388-efc6-4eb9-9a43-bd32103ee1c1.png)
   </p>
 
