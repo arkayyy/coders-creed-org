@@ -2,4 +2,4 @@
 A small but potentially growing community of like minded coders 👨‍💻
 
 
-![logo500px](https://user-images.githubusercontent.com/72148786/141694796-f6c822e2-099a-4054-b954-9ba54379f431.png)
+<img width="600" alt="Untitled (800 x 500 px)" src="https://user-images.githubusercontent.com/72148786/141694859-1ee74daa-c334-469f-861a-8fcc1df4ad8a.png">
