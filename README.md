@@ -1,4 +1,4 @@
 # coders-creed
 A small but potentially growing community of like minded coders 👨‍💻
 
-![CODER's CREED (2)](https://user-images.githubusercontent.com/72148786/141694613-2f7a32ce-26cf-4f95-b849-639010c1e6be.png)
+![Untitled design](https://user-images.githubusercontent.com/72148786/141694759-b813c39a-2744-4bc3-9c6d-26b4edfc9850.png)
